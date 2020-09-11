@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="StarBarView">
+        <attr name="star_full" format="reference" />
+        <attr name="star_half" format="reference" />
+        <attr name="star_empty" format="reference" />
+        <attr name="star_ratable" format="boolean" />
+        <attr name="star_num" format="integer" />
+        <attr name="star_padding" format="dimension" />
+    </declare-styleable>
+
+</resources>

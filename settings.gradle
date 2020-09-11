@@ -1,0 +1,3 @@
+include ':StarBar'
+include ':app'
+rootProject.name = "Star"
